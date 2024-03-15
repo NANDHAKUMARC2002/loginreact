@@ -1,0 +1,99 @@
+.tintin h2{
+    color:rgb(255, 115, 0);
+    font-size:44px;
+    padding-bottom: 9px;
+}
+.tintin h4{
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 9px;
+}
+.tintin .quote1{
+    color:rgb(255, 115, 0) ;
+    position: absolute;
+    margin:-5px 0 0 -790px;
+    font-size: 24px;
+}
+.tintin .quote2{
+    color:rgb(255, 115, 0) ;
+    font-size: 24px;
+    margin: 0 0 0 0;
+    position: absolute;
+    width:50px;
+}
+
+.tintin p{
+    font-size:15px;
+    font-style: italic;
+    text-align: center;
+    color: black;
+}
+.tintin img{
+    margin:30px 0 0 0;
+    width:100%;
+    height: 450px;
+}
+
+.tintin .circle1{
+    height: 350px;
+    width: 350px;
+    border-radius: 350px;
+    border:2px solid rgb(255, 115, 0) ;
+    background:white;
+    opacity: .8;
+    margin:-445px 0 0 80px;
+}
+.tintin .circle1 h5{
+    font-size: 15px;
+    margin:135px 0 0 55px;
+    font-weight:bold;
+    color:rgb(255, 115, 0) ;
+   
+}
+.circle1p{
+    font-family: sans-serif;
+    margin:20px 0 0 0;
+}
+
+.tintin .circle2{
+    height: 350px;
+    width: 350px;
+    border-radius: 350px;
+    border:2px solid rgb(255, 115, 0) ;
+    background:white;
+    opacity: .8;
+    margin:-350px 0 0 580px;
+}
+.tintin .circle2 h5{
+    font-size: 15px;
+    margin:135px 0 0 115px;
+    font-weight:bold;
+    color:rgb(255, 115, 0) ;
+   
+}
+.circle2p{
+    font-family: sans-serif;
+    margin:20px 0 0 0;
+}
+
+
+.tintin .circle3{
+    height: 350px;
+    width: 350px;
+    border-radius: 350px;
+    border:2px solid rgb(255, 115, 0) ;
+    background:white;
+    opacity: .8;
+    margin:-350px 0 0 1056px;
+}
+.tintin .circle3 h5{
+    font-size: 15px;
+    margin:135px 0 0 115px;
+    font-weight:bold;
+    color:rgb(255, 115, 0) ;
+   
+}
+.circle3p{
+    font-family: sans-serif;
+    margin:20px 0 0 0;
+}

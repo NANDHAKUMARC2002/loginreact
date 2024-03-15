@@ -1,0 +1,87 @@
+.login{
+    background: #ffcdd8;
+    height:1000px;
+    
+}
+.login .row h1{ 
+    background: rgb(20, 13, 141);
+    background: linear-gradient(90deg, rgb(8, 5, 74) 0%, rgba(205,44,225,0.891281512605042) 35%, rgba(255,132,0,0.8128501400560224) 99%);
+    color:white;
+    height: 30rem;
+    margin:6rem 0 0 0;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-top: 12rem;
+    font-style: italic;
+    border-radius: 10px 0 0 10px;
+}
+.login .row h3{
+    margin:15rem 0 0 11rem; 
+    font-size: 16px;
+    width:150px;
+    font-weight: 600;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.login .row input{
+    width:250px;
+    border-radius: 20px;
+    border: 1px grey solid;
+    margin:20px 0 0 100px;
+    padding-left: 50px;
+
+}
+
+.login .row .user{
+    position: absolute;
+    margin:22px 0 0 120px;
+    width:13px;
+}
+.login .row .lock{
+    position: absolute;
+    margin:24px 0 0 120px;
+    width:18px;
+}
+.login .row .radio{
+    margin:24px 0 0 -30px;
+}
+.login .row p{
+    position: absolute;
+    margin:-25px 0 0 110px;
+    width:18px;
+}
+.login .row .for{
+    position: absolute;
+    margin:-25px 0 0 250px;
+    font-size: 15px;
+    width:300px;
+    color: black;
+
+
+}
+.login .row a p{
+    margin:0 0 0 25px;
+}
+.login .row a{
+    color:black;
+    text-decoration: none;
+    border:none;
+    width:100px;
+    margin:70px 0 0 -40px;
+    position: absolute;
+    border-radius: 20px;
+    height: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    background: linear-gradient(90deg, rgba(205,44,225,0.891281512605042) 35%, rgba(255,132,0,0.8128501400560224) 99%);
+}
+.right{
+    margin:-80px 0 0 0;
+}
+.login .row .col-lg-4{
+    background: white;
+    margin:96px 0 0 -12px;
+    border-radius: 0 10px 10px 0;
+    height: 480px;
+    
+}

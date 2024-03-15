@@ -1,0 +1,170 @@
+.wup .family{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.wup .family p{
+    font-style: italic;
+}
+
+.wup .family .quote1{
+    color:rgb(255, 115, 0) ;
+    position: absolute;
+    margin:-5px 0 0 -780px;
+    font-size: 24px;
+}
+.wup .family .quote2{
+    color:rgb(255, 115, 0) ;
+    position: absolute;
+    margin:-5px 0 0 0px;
+    font-size: 24px;
+    width:50px;
+}
+
+
+
+.wup .partner{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.wup .partner p{
+    font-style: italic;
+}
+.wup strong{
+    font-size: 15px;
+}
+
+.wup .partner .quote3{
+    color:rgb(255, 115, 0) ;
+    position: absolute;
+    margin:-5px 0 0 -780px;
+    font-size: 24px;
+}
+.wup .partner .quote4{
+    color:rgb(255, 115, 0) ;
+    position: absolute;
+    margin:-5px 0 0 0px;
+    font-size: 24px;
+    width:50px;
+}
+
+
+
+
+.wup .partnership{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.wup .partnership p{
+    font-style: italic;
+}
+.wup strong{
+    font-size: 15px;
+}
+
+.wup .partnership .quote5{
+    color:rgb(255, 115, 0) ;
+    position: absolute;
+    margin:-5px 0 0 -780px;
+    font-size: 24px;
+}
+.wup .partnership .quote6{
+    color:rgb(255, 115, 0) ;
+    position: absolute;
+    margin:-5px 0 0 0px;
+    font-size: 24px;
+    width:50px;
+}
+
+
+
+
+
+.wdown{
+    border:1px rgb(255, 115, 0) solid;
+    border-top: 3.5px rgb(255, 115, 0) solid;
+    border-right:3.5px rgb(255, 115, 0) solid;
+    border-radius: 5px;
+    width:550px;
+    margin:0 0 0 500px;
+}
+.wdown h3{
+    justify-content: center;
+    text-align: center;
+    color:rgb(255, 115, 0);
+}
+.wdown label,input{
+    margin-left: 22px;
+    width:500px;
+    font-style: italic;
+    font-size: 14px;
+}
+
+.wdown input{
+    margin-bottom: 10px;
+    border:1px solid rgb(196, 196, 196);
+
+}
+.wdown select,textarea{
+    width:500px;
+    margin-left: 22px;
+    border:1px solid rgb(196, 196, 196);
+}
+
+.wdown button{
+    width:500px;
+    margin:10px 0 20px 22px;
+    border: none;
+    background: rgb(255, 115, 0);
+    color:black;
+    border-radius: 5px;
+    font-family: sans-serif;
+
+}
+
+@media screen and (min-width:320px) and (max-width:425px) {
+    .wdown{
+        border:1px rgb(255, 115, 0) solid;
+        border-top: 3.5px rgb(255, 115, 0) solid;
+        border-right:3.5px rgb(255, 115, 0) solid;
+        border-radius: 5px;
+        width:300px;
+        margin:0 0 0 10px;
+    }
+    .wdown h3{
+        justify-content: center;
+        text-align: center;
+        color:rgb(255, 115, 0);
+    }
+    .wdown label,input{
+        margin-left: 22px;
+        width:255px;
+        font-style: italic;
+        font-size: 14px;
+    }
+    
+    .wdown input{
+        margin-bottom: 10px;
+        border:1px solid rgb(196, 196, 196);
+    
+    }
+    .wdown select,textarea{
+        width:255px;
+        margin-left: 22px;
+        border:1px solid rgb(196, 196, 196);
+    }
+    
+    .wdown button{
+        width:255px;
+        margin:10px 0 20px 22px;
+        border: none;
+        background: rgb(255, 115, 0);
+        color:black;
+        border-radius: 5px;
+        font-family: sans-serif;
+    
+    }
+
+}

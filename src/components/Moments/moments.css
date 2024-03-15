@@ -1,0 +1,74 @@
+.moments h2{
+    margin:80px 0 0 600px;
+    text-align: center;
+    justify-content: center;
+    width:400px;
+    font-style: italic;
+    font-size: 28px;
+}
+.moments .first img{
+    width:420px;
+    height: 250px;
+    margin:50px 0 0 370px;
+    border-radius: 10px 10px 0 0;
+    
+}
+.moments .first p{
+    position: absolute;
+    border: 2px solid rgb(255, 115, 0);
+    width:180px;
+    padding: 3px 0 3px 5px;
+    border-radius: 8px;
+    color:white;
+    background:rgb(255, 115, 0);
+    z-index: 2;
+    margin: -245px 0 0 605px;
+}
+.moments .first h5{
+    font-size: 14px;
+    margin:10px 0 0 210px;
+    text-align: center;
+    
+}
+.moments .first h2{
+    width:420px;
+    height: 320px;
+    border:1px solid rgb(198, 198, 198);
+    position: absolute;
+    margin:-311px 0  0 370px;
+    border-radius: 10px;
+    
+}
+
+
+.moments .second img{
+    width:420px;
+    height: 250px;
+    margin:50px 0 0 60px;
+    border-radius: 10px 10px 0 0;
+}
+.moments .second p{
+    position: absolute;
+    border: 2px solid rgb(255, 115, 0);
+    width:180px;
+    padding: 3px 0 3px 5px;
+    border-radius: 8px;
+    color:white;
+    background:rgb(255, 115, 0);
+    z-index: 2;
+    margin: -245px 0 0 295px;
+}
+.moments .second h5{
+    font-size: 14px;
+    margin:10px 0 0 70px;
+    width:500px;
+}
+.moments .second h2{
+    width:420px;
+    height: 320px;
+    border:1px solid rgb(198, 198, 198);
+    position: absolute;
+    margin:-250px 0  0 60px;
+    border-radius: 10px;
+    
+}

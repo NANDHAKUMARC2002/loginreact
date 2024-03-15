@@ -1,0 +1,63 @@
+/* *{
+    background: rgb(246, 241, 232);
+}
+.first h5{
+    margin:30px 0 0 120px;
+}
+
+.name .row label{
+    margin:20px 0 0 120px;
+}
+.name .row input{
+    margin:5px 0 0 120px;
+    padding:10px 0;
+}
+.name .row input::placeholder{
+    padding-left: 10px;
+}
+
+
+
+
+.num .row label{
+    margin:20px 0 0 120px;
+}
+.num .row input{
+    margin:5px 0 0 120px;
+    padding:10px 0;
+}
+.num .row input::placeholder{
+    padding-left: 10px;
+}
+.num .row select{
+    margin:5px 0 0 120px;
+    width:500px;
+    padding:10px 0;
+}
+
+
+
+.date .row label{
+    margin:20px 0 0 120px;
+}
+.date .row input{
+    margin:5px 0 0 120px;
+    padding:10px 0;
+    width:370px;
+}
+.date .row input::placeholder{
+    padding-left: 10px;
+}
+
+.request .row label{
+    margin:10px 0 0 120px;
+    width:200px;
+    position: absolute;
+}
+.request .row textarea{
+    margin:50px 0 0 120px;
+}
+.request button{
+    width:500px;
+    margin:0 0 0 120px;
+} */

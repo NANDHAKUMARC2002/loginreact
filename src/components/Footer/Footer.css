@@ -1,0 +1,62 @@
+.foot  img{
+    width:709px;
+    height: 350px;
+    margin:100px 0 0 50px;
+}
+.foot h2{
+    color:yellowgreen;
+}
+.out h1{
+    width:810px;
+    height: 350px;
+    border:2px solid rgb(0, 0, 0);
+    margin:100px 0 0 0px;
+    background: rgb(0, 0, 36);
+}
+.out h3{
+    color:white;
+    margin:-320px 0 0 20px;
+    position: absolute;
+    width:400px;
+    font-style: italic;
+}
+.out h6{
+    margin:-275px 0 0 20px;
+    color:rgb(225, 220, 220);
+    font-size: 14px;
+    font-style: italic;
+}
+.work h4{
+    color:white;
+    margin:-60px 0 0 130px;
+    font-size: 17px;
+}
+.icon1 {
+    color: aliceblue;
+    font-size: 80px;
+    color:rgb(255, 115, 0);
+    margin:10px 0 0 -300px;
+
+    
+}
+.work p{
+    color:rgb(225, 220, 220);
+    margin:5px 0 0 130px;
+}
+
+
+.icon2{
+    color: aliceblue;
+    font-size: 80px;
+    color:rgb(255, 115, 0);
+    margin:25px 0 0 -300px;
+}
+.cafe h4{
+    color:white;
+    margin:-60px 0 0 130px;
+    font-size: 17px;
+}
+.cafe p{
+    color:rgb(225, 220, 220);
+    margin:5px 0 0 130px;
+}
