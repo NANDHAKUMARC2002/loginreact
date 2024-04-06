@@ -16,3 +16,6 @@ function Wwepage() {
 
 export default Wwepage
 
+import React from 'react'
+
+
